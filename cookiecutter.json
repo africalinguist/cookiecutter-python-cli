@@ -10,6 +10,6 @@
     "project_short_description": "My Tool does one thing, and one thing well.",
     "release_date": "2017-08-19",
     "year": "2017",
-    "version": "0.1.0"
+    "version": "0.1.0",
     "license": ["Apache Software License", "BSD License", "GNU General Public License v3 (GPLv3)", "GNU General Public License v2 (GPLv2)", "MIT License"]
 }
