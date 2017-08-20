@@ -27,7 +27,7 @@ Here's what they're for:
 * `pypi_name` -- "mytool"   (Name on PyPI, i.e. what people type to `pipsi install`.)
 * `script_name` -- "my-tool"  (Binary of the script, i.e. what people will run on the command line.)
 * `package_name` -- "my_tool"  (Name of the Python module/package used internally.)
-* `license` -- "Apache Software License" (Go [here](choosealicense.com/) to see which one you want to pick.)
+* `license` -- "Apache Software License" (Go [here](choosealicense.com/) to see which one you want to use.)
 
 ## License
 
